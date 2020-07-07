@@ -3,6 +3,14 @@ DOT file post-processing for the RAGE attack graph generator (see ag-gen)
 
 Current working version is v3.
 
+## Requirements
+- python3
+- pip
+
+```sh
+sudo apt install python3 python3-pip
+```
+
 ## Setup
 Install pipenv using pip:
 ```sh
